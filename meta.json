@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-17T10:36:12.183Z",
+  "updatedAt": "2026-09-18T10:11:58.255Z",
   "source": "https://elvebredd.net/wp-admin/admin-ajax.php",
-  "sourceAgeDays": 0,
+  "sourceAgeDays": 1,
   "count": 3458,
-  "previousCount": 3386,
-  "added": 72,
+  "previousCount": 3458,
+  "added": 0,
   "duplicatesFolded": 26,
-  "valueChanges": 352,
+  "valueChanges": 0,
   "retainedNotInSource": 2
 }
